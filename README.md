@@ -1,7 +1,7 @@
 # API Flask para modelo de Classificação em Scikit-Learn
 ### Colaboradores
-Bruno Lucas Pereira (GIT - BrunoPereira1) (e-mail - brunolpereira17@hotmail.com)
-Caio Romulo Alves de Carvalho (GIT - caio-romulo) (e-mail - caioromulo1@gmail.com)
+Bruno Lucas Pereira (GIT - BrunoPereira1) (e-mail - brunolpereira17@hotmail.com)                                                         
+Caio Romulo Alves de Carvalho (GIT - caio-romulo) (e-mail - caioromulo1@gmail.com)                                                       
 Fernando Bivar Ramos de Melo (GIT - fernando-bivar) (e-mail - fernandobivar123@gmail.com)
 ### Orientador
 Jamisson Freitas
