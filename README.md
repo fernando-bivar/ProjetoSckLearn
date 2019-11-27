@@ -34,7 +34,12 @@ Modelo de Classificação através do GaussianNB, importado do "sklearn.naive_ba
 ### /teste2 (GET)
 Modelo de Classificação através do KNeighborsClassifier, importado do "sklearn.neighbors", e usado para treinar, testar e fazer previsões.
 
-### /api (GET and POST)
-Uso do Modelo de Classificação do "/teste2" para Previsões futuras através das Características do Tumor
+### /apiForm (GET and POST)
+Uso do Modelo de Classificação do "/teste2" para Previsões futuras através das Características do Tumor com preenchimento de formulário feito em JS.
+OBS: Essa api só funciona se a URL for usada no navegador, o uso da mesma no Postman não terá efeito.
+
+### /api (POST)
+Uso do Modelo de Classificação do "/teste2" para Previsões futuras através das Características do Tumor com passagem de parâmetros através de um JSON.
+OBS: Recomendo o uso do Postman nessa api.
 
 ### END
